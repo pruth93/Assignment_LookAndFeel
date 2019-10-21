@@ -165,6 +165,7 @@ body {
     width: 940px;
 }
 
+
 #mainpic h1 {
     position: absolute;
     text-align: right;
@@ -188,7 +189,7 @@ body {
     background-image: url(../img/headerbg.jpg);
     background-repeat: no-repeat;
     width: 900px;
-    height: 354px;
+    height: 254px;
 }
 
 
@@ -292,4 +293,19 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 
+.table-title {
+    padding:20px 10px 10px 10px;
+    text-align:center;
+}
 
+/*about us*/
+.abtus h1{
+    text-align: center;
+    padding:15px;
+}
+.member {
+    display: inline-block;
+    width: 33%;
+    padding:5px;
+    text-align: center;
+}
