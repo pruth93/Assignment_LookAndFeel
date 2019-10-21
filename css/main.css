@@ -137,6 +137,33 @@ html {
     animation-duration: 1.5s;
 }
 
+
+
+.main {
+    margin: 50px 200px 50px 200px;
+    width: 600;
+}
+
+#div1 {
+    position: relative;
+    float: left;
+    width: 200px;
+    margin: 0px 180px 0px 200px;
+}
+
+#div2 {
+    position: relative;
+    float: left;
+    width: 200px;
+}
+
+#div3 {
+    position: relative;
+    float: right;
+    width: 200px;
+    margin: 0px 170px 0px 180px;
+}
+
 @-webkit-keyframes fade {
     from {
         opacity: .4
