@@ -164,6 +164,10 @@ html {
     margin: 0px 170px 0px 180px;
 }
 
+.initslide {
+    display: block;
+}
+
 @-webkit-keyframes fade {
     from {
         opacity: .4
